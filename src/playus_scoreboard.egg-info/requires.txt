@@ -1,0 +1,6 @@
+httpx
+pydantic
+pydantic-settings
+
+[dev]
+pytest
